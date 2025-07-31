@@ -113,18 +113,4 @@ The beauty of this project is its flexibility. You can easily adapt it for *any*
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 📬 Connect with Me
-
-Have questions, suggestions, or just want to chat about NLP? Feel free to reach out!
-
-* **GitHub:** [Your GitHub Profile URL Here]
-* **LinkedIn:** [Your LinkedIn Profile URL Here (Optional)]
-* **Email:** [Your Email Address Here (Optional)]
-
----
